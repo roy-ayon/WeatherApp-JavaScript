@@ -1,0 +1,32 @@
+.btnImg {
+    height: 20px;
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+.container-fluid {
+    background: url("/images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.error {
+    display: none;
+}
+
+.detailsImg {
+    width: 28px;
+}
+
+#tempImg {
+    height: 120px;
+}
+
+.weatherInfo {
+    display: none;
+}
